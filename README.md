@@ -19,8 +19,8 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Meta-resource on learning fMRI from Chris Rorden](https://crnl.readthedocs.io/) See his courses in particular! 
 - [Allen Brain Map](https://portal.brain-map.org/) anatomy lessons and visualizations.
 - [Anatomy text](https://link.springer.com/book/10.1007/978-3-211-73971-6) Check UF library for e-book and PDF access.
-- [FMRI Text 1]([https://www.amazon.com/Functional-Magnetic-Resonance-Imaging-Second/dp/0878932860/](https://www.amazon.com/Functional-Magnetic-Resonance-Imaging-Huettel-dp-0878936270/dp/0878936270/ref=dp_ob_title_bk)) The authorative text.
-- [FMRI Text 2](https://www.amazon.com/Handbook-Functional-MRI-Data-Analysis/dp/0521517664/ref=sr_1_1?ie=UTF8&amp&qid=1345812543&amp&sr=8-1&amp&keywords=poldrack%22/) Shorter and more focused on analysis
+- [FMRI Text 1](https://www.amazon.com/Functional-Magnetic-Resonance-Imaging-Second/dp/0878932860/] The authorative text from Huettel et al..
+- [FMRI Text 2](https://www.amazon.com/Handbook-Functional-MRI-Data-Analysis/dp/0521517664/ref=sr_1_1?ie=UTF8&amp&qid=1345812543&amp&sr=8-1&amp&keywords=poldrack%22/) Poldrack and colleagues. Shorter and more focused on analysis
 - [NeuroStars](https://neurostars.org/) open forum for questions about analyses, software, debugging, etc.
 - [Paper summary of MVPA](https://academic.oup.com/scan/article/15/4/487/5824852?login=true)
 ### Computational/coding based resources
@@ -44,6 +44,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [BIDS tutorial - your mileage may vary](https://rpubs.com/sarenseeley/bids-fmriprep-mriqc)
 ### Options for analyses
 - [Brainlife](https://brainlife.io/apps). All online analyses!
+- [Neurodesk](https://www.neurodesk.org/). Containerized analysis tools - huge range of software available!
 - [NeuroQuery](https://neuroquery.org/) meta-analysis and lit search tool.
 - [NeuroSynth](https://neurosynth.org/) (outdated) meta-analysis and lit search tool.
 - [NeuroSynth Compose](https://compose.neurosynth.org/) more up to date meta-analysis tool.
@@ -52,9 +53,12 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Nipype](https://miykael.github.io/nipype-beginner-s-guide/installation.html?highlight=graphviz#install-nipype-and-other-python-dependencies). Python-based analysis tools (can use FSL, SPM, freesurfer, and more)
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows) tutorials and guides.
 - [SPM](https://www.fil.ion.ucl.ac.uk/spm/software/spm8/). Matlab-based analysis tools.
+- [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html). AFNI instructions
 - [NITRC](https://www.nitrc.org/). Datasets and computational tools
 - [VisualQC](https://github.com/raamana/visualqc). Quality control tools
 - [PySurfer](https://pysurfer.github.io/auto_examples/index.html) Python-based visualizations from Gallant lab.
+- [PyMVPA](https://github.com/bids-apps/PyMVPA) Python-based multivoxel pattern analysis tools (now a BIDS app!)
+- [GLMSingle](https://glmsingle.readthedocs.io/en/latest/wiki.html) Extracting single trial betas for 
 - [Tools for visualizations 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648228/) slightly outdated.
 - [Tools for visualization 2](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14430)
 - [Tedana for multi-echo processing](https://tedana.readthedocs.io/en/stable/usage.html)
