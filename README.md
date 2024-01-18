@@ -4,6 +4,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 
 ## Introductory Resources
 ### MRI/fMRI physics, basics, and overview
+- [Principles of FMRI Lecture series](https://www.youtube.com/watch?v=ZL-Tr1KSMKY&list=PLfXA4opIOVrGHncHRxI3Qa5GeCSudwmxM&pp=iAQB) Tor Wager's incomparable lecture series. Deeper into Physics / stats than we'll get. 
 - [fMRI 4 Newbies](https://www.fmri4newbies.com/). Jody Culham's master class. I've borrowed heavily from this! If you need more, start here! If you want even more, check out her [links](https://www.fmri4newbies.com/links-1).
 - [Full Free course from UCL - just sign up with an account](https://ucl.podia.com/view/courses/designing-and-analysing-fmri-experiments) If you have the time, this course is everything we'll cover in full form! 
 - [Jeanie Mumford's tutorials](https://www.youtube.com/c/mumfordbrainstats) mostly on analyses.
