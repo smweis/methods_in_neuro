@@ -63,10 +63,13 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Tools for visualization 2](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14430)
 - [Tedana for multi-echo processing](https://tedana.readthedocs.io/en/stable/usage.html)
 - [TemplateFlow - standard brain spaces](https://www.templateflow.org/browse/)
-#### New and untested! 
 - [XCP-D: Analysis post-processing pipeline from Penn and others](https://www.biorxiv.org/content/10.1101/2023.11.20.567926v1)
 ## Dataset resources
 - [Open Neuro](https://openneuro.org/) approximately 1000 imaging datasets (including EEG, MEG, PET, etc.).
 - [Neurovault](https://neurovault.org/) processed brain images.
 - [Natural Scenes Dataset](https://cvnlab.slite.page/p/CT9Fwl4_hc/NSD-Data-Manual)
 - [fMRI pre-registration template](https://osf.io/maqwc)
+
+## Specific topics
+### Diffusion MRI
+- 
