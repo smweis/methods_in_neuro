@@ -28,7 +28,6 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Computer science overview](https://missing.csail.mit.edu/). Broad computational toolkit.
 - [Text on data science for neuroimaging](https://neuroimaging-data-science.org/root.html). Computational skills, with a focus on neuroimaging. Also available as an in-print [book](https://www.amazon.com/Data-Science-Neuroimaging-Ariel-Rokem/dp/0691222754).
 - [Text on mathematical tools](https://ebatty.github.io/MathToolsforNeuroscience/intro.html). More focus on the mathematical background of analyses.
-- [BIDS format](https://bids.neuroimaging.io/) info on the neuroimaging data storage standard.
 - [Advanced methods tutorials](http://markallenthornton.com/software/) from Mark Thornton
 ### Hands-on training and resources
 - [Andy's Brain book](https://andysbrainbook.readthedocs.io/en/latest/). One stop shop to learn hands-on fMRI preprocessing and analyses. A great starting point!
@@ -41,7 +40,9 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Brainiak recommended learning](https://github.com/brainiak/brainiak-tutorials/wiki/Resources) computationally focused.
 - [Human Connectome Project](https://store.humanconnectome.org/courses/2019/exploring-the-human-connectome.php). For human connectome project specific stuff.
 - [Jared Tanner (UF's own!) analysis pipeline](https://github.com/tannerjared/MRI_Guide/wiki).
-- [BIDS tutorial - your mileage may vary](https://rpubs.com/sarenseeley/bids-fmriprep-mriqc)
+- [BIDS format](https://bids.neuroimaging.io/) info on the neuroimaging data storage standard.
+- [A list of BIDS converters](https://bids.neuroimaging.io/benefits.html#converters). Tools and options to try for BIDS conversion.
+
 ### Options for analyses
 - [Brainlife](https://brainlife.io/apps). All online analyses!
 - [Neurodesk](https://www.neurodesk.org/). Containerized analysis tools - huge range of software available!
