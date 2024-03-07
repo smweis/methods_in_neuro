@@ -30,6 +30,8 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Text on data science for neuroimaging](https://neuroimaging-data-science.org/root.html). Computational skills, with a focus on neuroimaging. Also available as an in-print [book](https://www.amazon.com/Data-Science-Neuroimaging-Ariel-Rokem/dp/0691222754).
 - [Text on mathematical tools](https://ebatty.github.io/MathToolsforNeuroscience/intro.html). More focus on the mathematical background of analyses.
 - [Advanced methods tutorials](http://markallenthornton.com/software/) from Mark Thornton
+- [NITRC-Computing Environment](https://www.nitrc.org/ce/)
+- [NITRC-
 ### Hands-on training and resources
 - [Andy's Brain book](https://andysbrainbook.readthedocs.io/en/latest/). One stop shop to learn hands-on fMRI preprocessing and analyses. A great starting point!
 - [Andy's Brain blog](https://www.andysbrainblog.com/). More advanced questions/tutorials.
@@ -70,7 +72,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Neurovault](https://neurovault.org/) processed brain images.
 - [Natural Scenes Dataset](https://cvnlab.slite.page/p/CT9Fwl4_hc/NSD-Data-Manual)
 - [fMRI pre-registration template](https://osf.io/maqwc)
-
+- [NITRC Dataset resources](https://www.nitrc.org/xnat/index.php)
 ## Specific topics
 ### Diffusion MRI (courtesy of Brad Wilkes)
 #### Learning resources
@@ -94,3 +96,11 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Dartbrains tutorial](https://dartbrains.org/content/RSA.html)
 - [Brainiak tutorial](https://brainiak.org/tutorials/06-rsa/)
 
+### Voxelwise Encoding Models
+#### Learning resources
+- [Jack Gallant, slides](https://gallantlab.org/voxelwise_tutorials/voxelwise_modeling.html)
+- [Algonauts contest, 2021](http://algonauts.csail.mit.edu/2021/challenge.html#DataRelease)
+- [Manuscript on encoding vs. decoding frameworks](https://www.sciencedirect.com/science/article/pii/S1053811910010657)
+#### Software/tutorials
+- [Gallant lab tutorial](https://github.com/gallantlab/voxelwise_tutorials)
+- [Gallant lab tutorial walkthrough](https://www.youtube.com/watch?v=jobQmEJpbhY)
