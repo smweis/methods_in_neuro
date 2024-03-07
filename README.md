@@ -104,3 +104,11 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 #### Software/tutorials
 - [Gallant lab tutorial](https://github.com/gallantlab/voxelwise_tutorials)
 - [Gallant lab tutorial walkthrough](https://www.youtube.com/watch?v=jobQmEJpbhY)
+
+### Functional Connectivity
+#### Learning resources
+-
+#### Software/tutorials
+- [VBA toolbox for Bayesian effective connectivity](https://mbb-team.github.io/VBA-toolbox/wiki/BMS-for-group-studies/)
+- [Granger Causality in python: nitime](https://nipy.org/nitime/examples/granger_fmri.html)
+- [Brainiak, seed-based connectivity](https://brainiak.org/tutorials/08-connectivity/)
