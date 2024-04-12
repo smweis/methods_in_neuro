@@ -32,7 +32,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Text on mathematical tools](https://ebatty.github.io/MathToolsforNeuroscience/intro.html). More focus on the mathematical background of analyses.
 - [Advanced methods tutorials](http://markallenthornton.com/software/) from Mark Thornton
 - [NITRC-Computing Environment](https://www.nitrc.org/ce/)
-- [NITRC-
+
 ### Hands-on training and resources
 - [Andy's Brain book](https://andysbrainbook.readthedocs.io/en/latest/). One stop shop to learn hands-on fMRI preprocessing and analyses. A great starting point!
 - [Andy's Brain blog](https://www.andysbrainblog.com/). More advanced questions/tutorials.
