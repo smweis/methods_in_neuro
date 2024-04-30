@@ -113,3 +113,4 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [VBA toolbox for Bayesian effective connectivity](https://mbb-team.github.io/VBA-toolbox/wiki/BMS-for-group-studies/)
 - [Granger Causality in python: nitime](https://nipy.org/nitime/examples/granger_fmri.html)
 - [Brainiak, seed-based connectivity](https://brainiak.org/tutorials/08-connectivity/)
+- [pNets - personalized functional connectivity networks](https://github.com/MLDataAnalytics/pNet)
