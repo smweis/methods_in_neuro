@@ -105,6 +105,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 #### Software/tutorials
 - [Gallant lab tutorial](https://github.com/gallantlab/voxelwise_tutorials)
 - [Gallant lab tutorial walkthrough](https://www.youtube.com/watch?v=jobQmEJpbhY)
+- [Gallant lab preprint](https://gallantlab.org/voxelwise_tutorials/pages/index.html)
 
 ### Functional Connectivity
 #### Learning resources
