@@ -6,7 +6,8 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 ### MRI/fMRI physics, basics, and overview
 - [Principles of FMRI Lecture series](https://www.youtube.com/watch?v=ZL-Tr1KSMKY&list=PLfXA4opIOVrGHncHRxI3Qa5GeCSudwmxM&pp=iAQB) Tor Wager's incomparable lecture series. Deeper into Physics / stats than we'll get. 
 - [fMRI 4 Newbies](https://www.fmri4newbies.com/). Jody Culham's master class. I've borrowed heavily from this! If you need more, start here! If you want even more, check out her [links](https://www.fmri4newbies.com/links-1).
-- [Full Free course from UCL - just sign up with an account](https://ucl.podia.com/view/courses/designing-and-analysing-fmri-experiments) If you have the time, this course is everything we'll cover in full form! 
+- [Full Free course from UCL - just sign up with an account](https://ucl.podia.com/view/courses/designing-and-analysing-fmri-experiments) If you have the time, this course is everything we'll cover in full form!
+- [More from UCL - Joe Devlin Designing and Analysing fMRI Experiments](https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL)
 - [Jeanie Mumford's tutorials](https://www.youtube.com/c/mumfordbrainstats) mostly on analyses.
 - [Enigma-U: Youtube tutorials of, well, everything!](https://www.youtube.com/channel/UCQa6DCj9TwY0Ea_EKBkJvbA)
 - [Nancy Kanwisher the Human Brain course](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain)
@@ -32,6 +33,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Text on mathematical tools](https://ebatty.github.io/MathToolsforNeuroscience/intro.html). More focus on the mathematical background of analyses.
 - [Advanced methods tutorials](http://markallenthornton.com/software/) from Mark Thornton
 - [NITRC-Computing Environment](https://www.nitrc.org/ce/)
+- [NMIND Consortium](https://www.nature.com/articles/s41562-023-01647-0) and [here](https://www.nmind.org)
 
 ### Hands-on training and resources
 - [Andy's Brain book](https://andysbrainbook.readthedocs.io/en/latest/). One stop shop to learn hands-on fMRI preprocessing and analyses. A great starting point!
@@ -44,8 +46,10 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Brainiak recommended learning](https://github.com/brainiak/brainiak-tutorials/wiki/Resources) computationally focused.
 - [Human Connectome Project](https://store.humanconnectome.org/courses/2019/exploring-the-human-connectome.php). For human connectome project specific stuff.
 - [Jared Tanner (UF's own!) analysis pipeline](https://github.com/tannerjared/MRI_Guide/wiki).
-- [BIDS format](https://bids.neuroimaging.io/) info on the neuroimaging data storage standard.
+- [BIDS format](https://bids.neuroimaging.io/). Info on the neuroimaging data storage standard.
 - [A list of BIDS converters](https://bids.neuroimaging.io/benefits.html#converters). Tools and options to try for BIDS conversion.
+- [Reproducible + Programmatic visualizations](https://apertureneuro.org/article/85104-a-practical-guide-for-generating-reproducible-and-programmatic-neuroimaging-visualizations). Detailed integration of neuroimaging visualization with open science and reproducible practices.
+    - [Github page for reproducible neuroimaging](https://github.com/sidchop/RepoNeuroVis) 
 ### Options for analyses
 - [Brainlife](https://brainlife.io/apps). All online analyses!
 - [Neurodesk](https://www.neurodesk.org/). Containerized analysis tools - huge range of software available!
@@ -68,6 +72,11 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Tedana for multi-echo processing](https://tedana.readthedocs.io/en/stable/usage.html)
 - [TemplateFlow - standard brain spaces](https://www.templateflow.org/browse/)
 - [XCP-D: Analysis post-processing pipeline from Penn and others](https://www.biorxiv.org/content/10.1101/2023.11.20.567926v1)
+- [BayesfMRI](https://github.com/mandymejia/BayesfMRI)
+- [ReproNim](https://repronim.org). Resources for reproducible neuroscience.
+- [PyReliMRI](https://pypi.org/project/PyReliMRI/). Reliability metrics for task/resting state fMRI.
+- [Multi-Site neuroimaging](https://osf.io/preprints/psyarxiv/mpufv_v1). Tips and tricks.
+- [Scan duration / sample-size tradeoffs and simulations](https://www.nature.com/articles/s41586-025-09250-1)
 ## Dataset resources
 - [Open Neuro](https://openneuro.org/) approximately 1000 imaging datasets (including EEG, MEG, PET, etc.).
 - [Neurovault](https://neurovault.org/) processed brain images.
@@ -96,6 +105,7 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Neuromatch datasets](https://compneuro.neuromatch.io/projects/fMRI/README.html#bonner-algonauts-cichy)
 - [Dartbrains tutorial](https://dartbrains.org/content/RSA.html)
 - [Brainiak tutorial](https://brainiak.org/tutorials/06-rsa/)
+- [RSA Toolbox](https://rsatoolbox.readthedocs.io/en/stable/)
 
 ### Voxelwise Encoding Models
 #### Learning resources
@@ -115,3 +125,9 @@ A list of links and resources for my Methods in Neuroimaging Course (PSY 6930).
 - [Granger Causality in python: nitime](https://nipy.org/nitime/examples/granger_fmri.html)
 - [Brainiak, seed-based connectivity](https://brainiak.org/tutorials/08-connectivity/)
 - [pNets - personalized functional connectivity networks](https://github.com/MLDataAnalytics/pNet)
+
+### Network Neuroscience
+#### Learning Resources
+- 
+#### Software/tutorials
+- [Functional connectomics graph creation guide](https://www.biorxiv.org/content/10.1101/2023.06.23.546329v1.full). Paper comparing the ways to create graphs from fMRI data.
